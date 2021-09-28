@@ -1,2 +1,1 @@
-# sample_repo_testing
-sample_testing_file
+This is my 1st project in git hub 
